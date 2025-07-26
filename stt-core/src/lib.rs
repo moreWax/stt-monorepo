@@ -1,8 +1,12 @@
 
 // lib.rs can be empty or re-export greet for test
+
+pub fn greet() -> &'static str {
+    "Candle WASM Whisper loaded"
+}
+
 #[cfg(test)]
 mod tests {
-    use super::*;
 
     #[test]
     fn test_greet() {
