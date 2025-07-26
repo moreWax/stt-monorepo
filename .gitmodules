@@ -1,0 +1,15 @@
+[submodule "extension/candle-whisper-wasm"]
+	path = extension/candle-whisper-wasm
+	url = https://github.com/moreWax/candle-whisper-wasm.git
+[submodule "candle-whisper-wasm"]
+	path = candle-whisper-wasm
+	url = https://github.com/moreWax/candle-whisper-wasm.git
+[submodule "extension/new-folder-name"]
+	path = extension/new-folder-name
+	url = https://github.com/moreWax/candle-whisper-wasm.git
+[submodule "stt-ext/correct-folder-name"]
+	path = stt-ext/correct-folder-name
+	url = https://github.com/moreWax/candle-whisper-wasm.git
+[submodule "stt-ext/stt-core"]
+	path = stt-ext/stt-core
+	url = https://github.com/moreWax/stt-core
